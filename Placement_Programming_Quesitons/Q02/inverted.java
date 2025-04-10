@@ -1,4 +1,4 @@
-package Q2;
+package Q02;
 // Inverted right-angled triangle
 import java.util.Scanner;
 

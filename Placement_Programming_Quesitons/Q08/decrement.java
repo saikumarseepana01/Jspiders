@@ -1,4 +1,4 @@
-package Q8;
+package Q08;
 import java.util.Scanner;
 // Decrementing numbers from n to 0
 // This program takes an integer input from the user and prints the numbers in decrementing order from that number to 0.

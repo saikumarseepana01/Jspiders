@@ -1,4 +1,4 @@
-package Q5;
+package Q05;
 // Floyd's Triangle is a right-angled triangular array of natural numbers.
 import java.util.Scanner;
 

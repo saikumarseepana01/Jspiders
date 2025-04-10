@@ -1,4 +1,4 @@
-package Q4;
+package Q04;
 import java.util.Scanner;
 public class inverted {
     public static void main(String[] args) {

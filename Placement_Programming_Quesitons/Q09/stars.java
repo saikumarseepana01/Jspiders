@@ -1,4 +1,4 @@
-package Q9;
+package Q09;
 import java.util.Scanner;
 public class stars{
     public static void main (String [] args){

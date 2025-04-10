@@ -1,4 +1,4 @@
-package Q1;
+package Q01;
 public class PatternPyramid {
     public static void main(String[] args) {
         int num = 1;

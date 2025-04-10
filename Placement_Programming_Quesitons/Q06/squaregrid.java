@@ -1,4 +1,4 @@
-package Q6;
+package Q06;
 import java.util.Scanner;
 // Square Grid Pattern
 public class squaregrid {
